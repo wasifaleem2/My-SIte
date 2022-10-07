@@ -28,7 +28,13 @@ export default function Contact() {
                 </div>
                 <div className="strips">
                   <h3>Email</h3>
-                  <a href="">wasifaleem2@gmail.com</a>
+                  <a href="gmail.com">wasifaleem2@gmail.com</a>
+                </div>
+                <div className="strips">
+                  <h3>Facebook</h3>
+                  <a href="https://www.facebook.com/wasif.aleem.71">
+                    https://www.facebook.com/wasif.aleem.71
+                  </a>
                 </div>
               </div>
             </Col>
